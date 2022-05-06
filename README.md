@@ -1,0 +1,2 @@
+# Job-Scraper-Python
+This project is written in python and it scrapes multiple jobs from different websites including linked In
